@@ -2,7 +2,7 @@
 <img src=https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="gif">
 <h1 align="center">Hi 👋, I'm Rohit kumar barada</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> https://github-readme-stats.vercel.app/api/wakatime?username=Nathan13888&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa (langs_count seems ignored or not applied)
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> https://github-readme-stats.vercel.app/api/wakatime?username=Mrdevil-01&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa
 - 🔭 I’m currently working on **Developing CRUD webapp**
 
 - 🌱 I’m currently learning **javascript & node.js**
