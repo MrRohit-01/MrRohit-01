@@ -71,6 +71,8 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Mrdevil-01&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" float="left" alt="rohit-stats" />
   <br>
+  <br>
+  <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrdevil-01&theme=midnight-purple" float="right" alt="github streak stats" />
  <br />
  <br />
