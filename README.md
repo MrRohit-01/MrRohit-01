@@ -69,11 +69,11 @@
 <br>
 <!-- Stats -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Mrdevil-01&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" float="left" alt="rohit-stats" />
-  <br>
-  <br>
-  <br>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrdevil-01&theme=midnight-purple" float="right" alt="github streak stats" />
- <br />
- <br />
+  
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrdevil-01&show_icons=true&locale=en&theme=radical" alt="Mrdevil-01" />
+
+<img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mrdevil-01&theme=radical" alt="Mrdevil-01" />
+<br>
+<br>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrdevil-01&layout=compact&theme=radical" alt=Mrdevil-01 />
 </p>
