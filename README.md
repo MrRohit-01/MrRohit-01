@@ -80,5 +80,3 @@
 <br>
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRohit-01&layout=compact&theme=radical" alt=MrRohit-01 />
 </p>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrRohit-01&layout=compact&theme=holi&range=all_time"/>
