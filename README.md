@@ -1,7 +1,9 @@
 
 <!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrRohit-01&label=Profile%20views&color=blueviolet&style=flat" alt="count" /> 
+<img src="https://wakatime.com/badge/user/f24f6864-2b71-4732-b7a3-f13a604878da.svg" />
+</p>
 <!-- GIF -->
 <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" alt="gif">
 
